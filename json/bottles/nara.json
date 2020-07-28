@@ -2,50 +2,50 @@
   {
     "_id": "57fe4a2b68595fc7ba677c22",
     "url": "https://www.sake-sennin.com/fbo/web/app.php/user/product/136",
-    "subname": "\u719f\u6210\u9152",
+    "subname": "熟成酒",
     "aminoAcidContent": "",
     "alcoholContent": "",
     "price": "",
     "award": "",
     "sakeYeast": "",
-    "brand": "\u3075\u305f\u7a42\u96c4\u753a2008\u5e74\u91b8\u9020",
+    "brand": "ふた穂雄町2008年醸造",
     "volume": "",
     "sakeMeterValue": "",
-    "mariage": "\u3084\u3084\u6fc3\u539a\u306a\u5473\u308f\u3044\u306e\u6599\u7406\u3068\u597d\u76f8\u6027\u3002\u30d3\u30fc\u30d5\u30b7\u30c1\u30e5\u30fc\u3001\u30a6\u30ca\u30ae\u306e\u84b2\u713c\u3001\u5317\u4eac\u30c0\u30c3\u30af\u306a\u3069\u5e45\u5e83\u3044\u3002 ",
-    "type": "\u7279\u5225\u7d14\u7c73",
-    "brewery": "\u9577\u9f8d\u9152\u9020",
+    "mariage": "やや濃厚な味わいの料理と好相性。ビーフシチュー、ウナギの蒲焼、北京ダックなど幅広い。 ",
+    "type": "特別純米",
+    "brewery": "長龍酒造",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u767d\u78c1\u306e\u30b0\u30a4\u5451\u307f\u3002\u30d6\u30e9\u30f3\u30c7\u30fc\u30b0\u30e9\u30b9\u5f62\u72b6 ",
-    "matchDrinkingSceneAndTarget": "\u65e5\u672c\u9152\u901a\u5411\u3051\u3002\u719f\u6210\u597d\u304d\u5411\u3051\u3060\u304c\u8efd\u3055\u3082\u3042\u308a\u98df\u4e2d\u9152\u3082\u3067\u3082\u697d\u3057\u3081\u308b\u3002 ",
-    "matchDrinkingTemperature": "20\u2103\u524d\u5f8c\u53c8\u306f40\u2103\u524d\u5f8c",
-    "prefecture": "\u5948\u826f\u770c",
+    "matchDrinkingVessel": "白磁のグイ呑み。ブランデーグラス形状 ",
+    "matchDrinkingSceneAndTarget": "日本酒通向け。熟成好き向けだが軽さもあり食中酒もでも楽しめる。 ",
+    "matchDrinkingTemperature": "20℃前後又は40℃前後",
+    "prefecture": "奈良県",
     "starterCulture": "",
     "acidity": "",
-    "description": "\u719f\u6210\u611f\u306e\u3042\u308b\u6fc3\u5bc6\u306a\u9999\u308a\u3068\u82af\u306e\u3057\u3063\u304b\u308a\u3068\u3057\u305f\u65e8\u307f\u3001\u307e\u308d\u3084\u304b\u306a\u9178\u5473\u3001\u82e6\u5473\u304c\u5e83\u304c\u308b\u304c\u8efd\u3084\u304b\u3055\u3082\u540c\u5c45\u3002 "
+    "description": "熟成感のある濃密な香りと芯のしっかりとした旨み、まろやかな酸味、苦味が広がるが軽やかさも同居。 "
   },
   {
     "_id": "57fe4a2b68595fc7ba677c23",
     "url": "https://www.sake-sennin.com/fbo/web/app.php/user/product/138",
-    "subname": "\u5927\u541f\u91b8",
+    "subname": "大吟醸",
     "aminoAcidContent": "",
     "alcoholContent": "",
     "price": "",
     "award": "",
     "sakeYeast": "",
-    "brand": "\u9577\u9f8d\u5e83\u9675\u8535",
+    "brand": "長龍広陵蔵",
     "volume": "",
     "sakeMeterValue": "",
-    "mariage": "\u767d\u8eab\u306e\u523a\u8eab\u3001\u767d\u8eab\u306e\u713c\u304d\u9b5a\u3084\u30e0\u30fc\u30b9\u3001\u9b5a\u4ecb\u985e\u306e\u30b0\u30e9\u30bf\u30f3\u3001\u30db\u30bf\u30c6\u3068\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u7092\u3081\u7269\u306a\u3069\u5e45\u5e83\u3044\u3002 ",
-    "type": "\u5927\u541f\u91b8",
-    "brewery": "\u9577\u9f8d\u9152\u9020",
+    "mariage": "白身の刺身、白身の焼き魚やムース、魚介類のグラタン、ホタテとブロッコリーの炒め物など幅広い。 ",
+    "type": "大吟醸",
+    "brewery": "長龍酒造",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u30b7\u30e3\u30f3\u30d1\u30f3\u30b0\u30e9\u30b9\u3001\u767d\u78c1\u306e\u30b0\u30a4\u5451\u307f\u3001\u7d30\u8eab\u306e\u30b0\u30e9\u30b9\u3002 ",
-    "matchDrinkingSceneAndTarget": "\u83ef\u3084\u304b\u306a\u541f\u91b8\u9999\u3067\u65e5\u672c\u9152\u30d3\u30ae\u30ca\u30fc\u3067\u3082\u98f2\u307f\u3084\u3059\u304f\u82e5\u3044\u5973\u6027\u3084\u4e0a\u54c1\u306a\u98df\u4e8b\u5411\u304d\u3002 ",
-    "matchDrinkingTemperature": "15\u2103\u524d\u5f8c",
-    "prefecture": "\u5948\u826f\u770c",
+    "matchDrinkingVessel": "シャンパングラス、白磁のグイ呑み、細身のグラス。 ",
+    "matchDrinkingSceneAndTarget": "華やかな吟醸香で日本酒ビギナーでも飲みやすく若い女性や上品な食事向き。 ",
+    "matchDrinkingTemperature": "15℃前後",
+    "prefecture": "奈良県",
     "starterCulture": "",
     "acidity": "",
-    "description": "\u83ef\u3084\u304b\u306a\u541f\u91b8\u9999\u3068\u7e4a\u7d30\u3067\u304d\u308c\u3044\u306a\u9178\u5473\u3068\u65e8\u307f\u3001\u308f\u305a\u304b\u306b\u82e6\u5473\u3082\u3042\u308a\u6de1\u9e97\u8f9b\u53e3\u3002 "
+    "description": "華やかな吟醸香と繊細できれいな酸味と旨み、わずかに苦味もあり淡麗辛口。 "
   },
   {
     "_id": "57fe4a2b68595fc7ba677c61",
@@ -56,20 +56,20 @@
     "price": "",
     "award": "",
     "sakeYeast": "",
-    "brand": "\u9577\u9f8d\u3000\u5927\u548c\u79cb\u6d25\u7a42\u9152",
+    "brand": "長龍　大和秋津穂酒",
     "volume": "",
     "sakeMeterValue": "",
-    "mariage": "\u3057\u3063\u304b\u308a\u3057\u305f\u5473\u4ed8\u3051\u306e\u6599\u7406\u3002\u9b5a\u306e\u716e\u4ed8\u3051\u3001\u3059\u304d\u713c\u304d\u3001\u3046\u306a\u304e\u306e\u84b2\u713c\u304d\u306a\u3069 ",
-    "type": "\u7d14\u7c73",
-    "brewery": "\u9577\u9f8d\u9152\u9020",
+    "mariage": "しっかりした味付けの料理。魚の煮付け、すき焼き、うなぎの蒲焼きなど ",
+    "type": "純米",
+    "brewery": "長龍酒造",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u8584\u53e3\u306e\u30b0\u30a4\u5451\u3001\u5e83\u53e3\u306e\u76c3\u306a\u3069 ",
-    "matchDrinkingSceneAndTarget": "\u65e5\u672c\u9152\u901a\u5411\u3051\u3001\u771f\u590f\u4ee5\u5916\u3069\u306e\u5b63\u7bc0\u3067\u3082\u3001\u306c\u308b\u71d7\u304b\u3089\u71b1\u71d7\u3067\u3002 ",
-    "matchDrinkingTemperature": "18\u2103\u524d\u5f8c\u53c8\u306f\uff14\uff10\u2103\u304b\u3089\uff14\uff15\u2103\u7a0b\u5ea6",
-    "prefecture": "\u5948\u826f\u770c",
+    "matchDrinkingVessel": "薄口のグイ呑、広口の盃など ",
+    "matchDrinkingSceneAndTarget": "日本酒通向け、真夏以外どの季節でも、ぬる燗から熱燗で。 ",
+    "matchDrinkingTemperature": "18℃前後又は４０℃から４５℃程度",
+    "prefecture": "奈良県",
     "starterCulture": "",
     "acidity": "",
-    "description": "\u30ad\u30ea\u30c3\u3068\u3057\u305f\u9178\u5473\u3068\u304b\u3059\u304b\u306a\u719f\u6210\u9999\u3001\u7a4f\u3084\u304b\u306a\u65e8\u307f\u304c\u96a0\u308c\u3066\u3044\u308b\u3002\u3084\u3084\u8f9b\u53e3 "
+    "description": "キリッとした酸味とかすかな熟成香、穏やかな旨みが隠れている。やや辛口 "
   },
   {
     "_id": "57fe4a2b68595fc7ba677c62",
@@ -80,20 +80,20 @@
     "price": "",
     "award": "",
     "sakeYeast": "",
-    "brand": "\u9577\u9f8d\u3000\u719f\u6210\u53e4\u9152",
+    "brand": "長龍　熟成古酒",
     "volume": "",
     "sakeMeterValue": "",
-    "mariage": "\u6fc3\u539a\u306a\u5473\u4ed8\u3051\u306e\u8089\u6599\u7406\u3001\u30d6\u30ea\u3084\u91d1\u76ee\u9bdb\u306e\u716e\u4ed8\u3051\u3001\u3059\u304d\u713c\u304d\u306a\u3069 ",
-    "type": "\u672c\u91b8\u9020",
-    "brewery": "\u9577\u9f8d\u9152\u9020",
+    "mariage": "濃厚な味付けの肉料理、ブリや金目鯛の煮付け、すき焼きなど ",
+    "type": "本醸造",
+    "brewery": "長龍酒造",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u7d30\u8eab\u306e\u8170\u306e\u5f35\u3063\u305f\u30b0\u30e9\u30b9\u3001\u767d\u78c1\u306e\u30b0\u30a4\u5451\u307f\u306a\u3069 ",
-    "matchDrinkingSceneAndTarget": "\u65e5\u672c\u9152\u901a\u7279\u306b\u719f\u6210\u9152\u597d\u304d\u3002\u79cb\u304b\u3089\u51ac\u306b\u304b\u3051\u3066\u3002 ",
-    "matchDrinkingTemperature": "18\u2103\u524d\u5f8c\u53c8\u306f\uff14\uff10\u2103\u7a0b\u5ea6",
-    "prefecture": "\u5948\u826f\u770c",
+    "matchDrinkingVessel": "細身の腰の張ったグラス、白磁のグイ呑みなど ",
+    "matchDrinkingSceneAndTarget": "日本酒通特に熟成酒好き。秋から冬にかけて。 ",
+    "matchDrinkingTemperature": "18℃前後又は４０℃程度",
+    "prefecture": "奈良県",
     "starterCulture": "",
     "acidity": "",
-    "description": "\u3057\u3063\u304b\u308a\u3068\u3057\u305f\u719f\u6210\u9999\u3001\u9ad8\u3044\u9178\u3001\u708a\u304d\u305f\u3066\u306e\u7c73\u3001\u9999\u3070\u3057\u3044\u30ca\u30c3\u30c4\u985e\u3001\u30b9\u30d1\u30a4\u30b9\u306e\u9999\u308a\u304c\u91cd\u5c64\u7684\u306b\u7d9a\u304f\u3002\u3084\u3084\u7518\u53e3 "
+    "description": "しっかりとした熟成香、高い酸、炊きたての米、香ばしいナッツ類、スパイスの香りが重層的に続く。やや甘口 "
   },
   {
     "_id": "57fe4a2b68595fc7ba677c9c",
@@ -101,26 +101,26 @@
     "subname": "",
     "aminoAcidContent": "1.6",
     "alcoholContent": "15",
-    "price": "\u00a51952",
+    "price": "¥1952",
     "award": "",
-    "sakeYeast": "\u304d\u3087\u3046\u304b\u3044901\u53f7",
-    "brand": "\u6625\u9e7f\u3000\u3055\u304f\u3089\u7d14\u7c73",
+    "sakeYeast": "きょうかい901号",
+    "brand": "春鹿　さくら純米",
     "volume": "1800ml",
-    "sakeRiceExceptForKojiMaking": "\u30d2\u30ce\u30d2\u30ab\u30ea",
+    "sakeRiceExceptForKojiMaking": "ヒノヒカリ",
     "sakeMeterValue": "-9",
-    "mariage": "\u9b5a\u4ecb\u306e\u30de\u30ea\u30cd\u3001\u9d8f\u80f8\u8089\u306e\u30bd\u30c6\u30fc\u3001\u767d\u8eab\u9b5a\u306e\u30d5\u30ea\u30c3\u30c8\u3001\u5e06\u7acb\u8c9d\u306e\u30b0\u30e9\u30bf\u30f3\u306a\u3069 ",
-    "type": "\u541f\u91b8",
+    "mariage": "魚介のマリネ、鶏胸肉のソテー、白身魚のフリット、帆立貝のグラタンなど ",
+    "type": "吟醸",
     "ricePolishingRate": "70",
-    "brewery": "\u4eca\u897f\u6e05\u5175\u885b\u5546\u5e97",
+    "brewery": "今西清兵衛商店",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u5c0f\u578b\u30ef\u30a4\u30f3\u30b0\u30e9\u30b9\u3001\u30ab\u30c3\u30c8\u5165\u308a\u30b7\u30e7\u30c3\u30c8\u30b0\u30e9\u30b9\u3001\u5207\u5b50\u3001\u932b\u88fd\u306e\u732a\u53e3\u306a\u3069 ",
-    "matchDrinkingSceneAndTarget": "\u65e5\u672c\u9152\u30d3\u30ae\u30ca\u30fc\u3001\u30d1\u30fc\u30c6\u30a3\u3084\u5973\u5b50\u4f1a\u306a\u3069\u306e\u83ef\u3084\u304b\u306a\u30b7\u30fc\u30f3\u3001\u30ef\u30a4\u30f3\u30b0\u30e9\u30b9\u3067\u306e\u98f2\u7528\u306b\u5411\u304f\u3002\u897f\u6d0b\u6599\u7406\u3068\u597d\u76f8\u6027 ",
-    "matchDrinkingTemperature": "10\u301c15\u2103\u524d\u5f8c\u307e\u305f\u306f35\u2103\u524d\u5f8c",
-    "prefecture": "\u5948\u826f\u770c",
-    "starterCulture": "\u901f\u91b8",
+    "matchDrinkingVessel": "小型ワイングラス、カット入りショットグラス、切子、錫製の猪口など ",
+    "matchDrinkingSceneAndTarget": "日本酒ビギナー、パーティや女子会などの華やかなシーン、ワイングラスでの飲用に向く。西洋料理と好相性 ",
+    "matchDrinkingTemperature": "10〜15℃前後または35℃前後",
+    "prefecture": "奈良県",
+    "starterCulture": "速醸",
     "acidity": "1.8",
-    "description": "\u548c\u83d3\u5b50\u3084\u65e5\u672c\u88fd\u679c\u7269\u3092\u601d\u308f\u305b\u308b\u7518\u9178\u3063\u3071\u3044\u9999\u308a\u3002\u8c4a\u304b\u306a\u306a\u7c73\u7531\u6765\u306e\u7518\u5473\u3068\u3001\u6885\u306e\u3088\u3046\u306a\u9178\u5473\u304c\u4f59\u97fb\u307e\u3067\u7d9a\u304f\u3002 ",
-    "riceForMakingKoji": "\u30d2\u30ce\u30d2\u30ab\u30ea"
+    "description": "和菓子や日本製果物を思わせる甘酸っぱい香り。豊かなな米由来の甘味と、梅のような酸味が余韻まで続く。 ",
+    "riceForMakingKoji": "ヒノヒカリ"
   },
   {
     "_id": "57fe4a2b68595fc7ba677ccd",
@@ -128,26 +128,26 @@
     "subname": "",
     "aminoAcidContent": "1.6",
     "alcoholContent": "15",
-    "price": "\u00a52000",
+    "price": "¥2000",
     "award": "",
-    "sakeYeast": "\u304d\u3087\u3046\u304b\u3044901\u53f7",
-    "brand": "\u6625\u9e7f\u3000\u6975\u5473",
+    "sakeYeast": "きょうかい901号",
+    "brand": "春鹿　極味",
     "volume": "1800ml",
-    "sakeRiceExceptForKojiMaking": "\u3072\u3068\u3081\u307c\u308c",
+    "sakeRiceExceptForKojiMaking": "ひとめぼれ",
     "sakeMeterValue": "+1",
-    "mariage": "\u679d\u8c46\u8c46\u8150\u3001\u6e6f\u8449\u3001\u8c46\u4e73\u934b\u3001\u9bdb\u306e\u523a\u8eab\u3001\u5e06\u7acb\u8c9d\u306e\u523a\u8eab\u3001\u4f0a\u52e2\u6d77\u8001\u306e\u523a\u8eab\u3001\u8339\u3067\u30ba\u30ef\u30a4\u30ac\u30cb\u3001\u7518\u9bdb\u306e\u30ab\u30d6\u30e9\u84b8\u3057\u306a\u3069 ",
-    "type": "\u672c\u91b8\u9020",
+    "mariage": "枝豆豆腐、湯葉、豆乳鍋、鯛の刺身、帆立貝の刺身、伊勢海老の刺身、茹でズワイガニ、甘鯛のカブラ蒸しなど ",
+    "type": "本醸造",
     "ricePolishingRate": "65",
-    "brewery": "\u4eca\u897f\u6e05\u5175\u885b\u5546\u5e97",
+    "brewery": "今西清兵衛商店",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u8584\u624b\u78c1\u5668\u306e\u732a\u53e3\u3001\u30b0\u30a4\u5451\u307f\u3001\u30ac\u30e9\u30b9\u88fd\u306e\u732a\u53e3\u3001\u5c0f\u578b\u30bf\u30f3\u30d6\u30e9\u30fc\u306a\u3069 ",
-    "matchDrinkingSceneAndTarget": "\u901a\u5e74\u5411\u3051\u3002\u7537\u6027\u5411\u3051\u3002\u65e5\u672c\u9152\u901a\u5411\u3051\u3002\u548c\u98df\u5411\u3051\uff08\u3084\u3084\u9ad8\u7d1a\uff09 ",
-    "matchDrinkingTemperature": "18\u2103\u307e\u305f\u306f45\u2103\u524d\u5f8c",
-    "prefecture": "\u5948\u826f\u770c",
-    "starterCulture": "\u901f\u91b8",
+    "matchDrinkingVessel": "薄手磁器の猪口、グイ呑み、ガラス製の猪口、小型タンブラーなど ",
+    "matchDrinkingSceneAndTarget": "通年向け。男性向け。日本酒通向け。和食向け（やや高級） ",
+    "matchDrinkingTemperature": "18℃または45℃前後",
+    "prefecture": "奈良県",
+    "starterCulture": "速醸",
     "acidity": "1.3",
-    "description": "\u8efd\u5feb\u306a\u539f\u6599\u9999\u3068\u4e73\u88fd\u54c1\u306e\u3088\u3046\u306a\u9999\u308a\u3002\u306a\u3081\u3089\u304b\u306a\u98f2\u307f\u53e3\u3002\u4e2d\u76e4\u304b\u3089\u307b\u3069\u3088\u3044\u65e8\u5473\u304c\u5c55\u958b\u3059\u308b\u3002\u5f8c\u5473\u306f\u30c9\u30e9\u30a4 ",
-    "riceForMakingKoji": "\u3072\u3068\u3081\u307c\u308c"
+    "description": "軽快な原料香と乳製品のような香り。なめらかな飲み口。中盤からほどよい旨味が展開する。後味はドライ ",
+    "riceForMakingKoji": "ひとめぼれ"
   },
   {
     "_id": "57fe4a2b68595fc7ba677cf6",
@@ -158,20 +158,20 @@
     "price": "",
     "award": "",
     "sakeYeast": "",
-    "brand": "\u5927\u548c\u306e\u6e05\u9152",
+    "brand": "大和の清酒",
     "volume": "",
     "sakeMeterValue": "",
-    "mariage": "\u4e09\u8f2a\u305d\u3046\u3081\u3093\u3084\u51b7\u5974\u306a\u3069\u6e05\u6dbc\u611f\u306e\u3042\u308b\u6599\u7406\u3002\u5ddd\u5e8a\u6599\u7406\u3002\u5c71\u5973\u9b5a\u3084\u9b8e\u306e\u5869\u713c\u304d\u3002 ",
-    "type": "\u7d14\u7c73\u541f\u91b8",
-    "brewery": "\u516b\u6728\u9152\u9020",
+    "mariage": "三輪そうめんや冷奴など清涼感のある料理。川床料理。山女魚や鮎の塩焼き。 ",
+    "type": "純米吟醸",
+    "brewery": "八木酒造",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u5c0f\u578b\u306e\u9752\u8272\u306e\u5207\u5b50\u3008\u30d3\u30a2\u30b0\u30e9\u30b9\u5f62\u72b6\uff09\u3001\u9752\u7af9\u306e\u304a\u732a\u53e3\u3002 ",
-    "matchDrinkingSceneAndTarget": "\u6e05\u6d41\u3067\u5ddd\u9b5a\u3092\u91e3\u3063\u3066\u98ef\u3054\u3046\u708a\u98ef\u3001\u6d41\u3057\u305d\u3046\u3081\u3093\u7b49\u30a2\u30a6\u30c8\u30c9\u30a2\u306b\u3082\u6700\u9069\u3002\u30ab\u30b8\u30e5\u30a2\u30eb\u306b\u3082\u697d\u3057\u3081\u9ad8\u7d1a\u6599\u4ead\u306b\u3082\u5411\u304f ",
-    "matchDrinkingTemperature": "\uff15\uff5e\uff11\uff10\u2103\u3001\uff11\uff15\u2103",
-    "prefecture": "\u5948\u826f\u770c",
+    "matchDrinkingVessel": "小型の青色の切子〈ビアグラス形状）、青竹のお猪口。 ",
+    "matchDrinkingSceneAndTarget": "清流で川魚を釣って飯ごう炊飯、流しそうめん等アウトドアにも最適。カジュアルにも楽しめ高級料亭にも向く ",
+    "matchDrinkingTemperature": "５～１０℃、１５℃",
+    "prefecture": "奈良県",
     "starterCulture": "",
     "acidity": "",
-    "description": "\u6e05\u6d41\u3092\u601d\u308f\u305b\u308b\u723d\u3084\u304b\u306a\u9999\u308a\u3068\u30df\u30cd\u30e9\u30eb\u611f\u3002\u306b\u307b\u3093\u306e\u308a\u3068\u3057\u305f\u708a\u304d\u7acb\u3066\u306e\u3054\u98ef\u306e\u9999\u308a\u3002\u3055\u3089\u308a\u3068\u3057\u305f\u723d\u3084\u304b\u306a\u5473\u308f\u3044\u3002 "
+    "description": "清流を思わせる爽やかな香りとミネラル感。にほんのりとした炊き立てのご飯の香り。さらりとした爽やかな味わい。 "
   },
   {
     "_id": "57fe4a2b68595fc7ba677ddd",
@@ -182,30 +182,30 @@
     "price": "",
     "award": "",
     "sakeYeast": "",
-    "brand": "\u767e\u697d\u9580",
+    "brand": "百楽門",
     "volume": "",
     "sakeMeterValue": "",
-    "mariage": "\u971c\u964d\u308a\u8089\u306e\u3059\u304d\u713c\u304d\u3001\u9c3b\u306e\u84b2\u713c\u304d\u3001\u30d5\u30a9\u30ef\u30b0\u30e9\u306e\u30bd\u30c6\u30fc\u3001\u30d5\u30ab\u30d2\u30ec\u306e\u59ff\u716e\u3001\u719f\u6210\u3055\u305b\u305f\u30c1\u30fc\u30ba\u985e\u306a\u3069 ",
-    "type": "\u7d14\u7c73",
-    "brewery": "\u845b\u57ce\u9152\u9020",
+    "mariage": "霜降り肉のすき焼き、鰻の蒲焼き、フォワグラのソテー、フカヒレの姿煮、熟成させたチーズ類など ",
+    "type": "純米",
+    "brewery": "葛城酒造",
     "breweryYear": "",
-    "matchDrinkingVessel": "\u30ab\u30c3\u30c8\u5165\u308a\u306e\u30b7\u30e7\u30c3\u30c8\u30b0\u30e9\u30b9\u3001\u767d\u78c1\u306e\u5e73\u676f\u3001\u30d6\u30e9\u30f3\u30c7\u30fc\u30b0\u30e9\u30b9\u306a\u3069 ",
-    "matchDrinkingSceneAndTarget": "\u98df\u5f8c\u9152\u3068\u3057\u3066\u6700\u9069\u3002\u30c1\u30fc\u30ba\u3084\u30c7\u30b6\u30fc\u30c8\u3068\u5171\u306b\u98df\u5f8c\u9152\u3068\u3057\u3066\u697d\u3057\u307f\u305f\u3044\u30a2\u30a4\u30c6\u30e0\u3002\u65e5\u672c\u9152\u901a\u5411\u3051 ",
-    "matchDrinkingTemperature": "20\u2103\u524d\u5f8c",
-    "prefecture": "\u5948\u826f\u770c",
+    "matchDrinkingVessel": "カット入りのショットグラス、白磁の平杯、ブランデーグラスなど ",
+    "matchDrinkingSceneAndTarget": "食後酒として最適。チーズやデザートと共に食後酒として楽しみたいアイテム。日本酒通向け ",
+    "matchDrinkingTemperature": "20℃前後",
+    "prefecture": "奈良県",
     "starterCulture": "",
     "acidity": "",
-    "description": "\u6df1\u307f\u306e\u3042\u308b\u7425\u73c0\u8272\u3002\u51dd\u7e2e\u611f\u306e\u9ad8\u3044\u719f\u6210\u9999\u3002\u307e\u308d\u3084\u304b\u3067\u3068\u308d\u307f\u306e\u3042\u308b\u98f2\u307f\u53e3\u3002\u3057\u3063\u3068\u308a\u3068\u3057\u305f\u306a\u3081\u3089\u304b\u306a\u7518\u5473\u3068\u65e8\u5473 "
+    "description": "深みのある琥珀色。凝縮感の高い熟成香。まろやかでとろみのある飲み口。しっとりとしたなめらかな甘味と旨味 "
   },
   {
     "_id": "58120a2c5d497d001141477d",
-    "brand": "\u5409\u91ce\u6749\u306e\u6a3d\u9152",
+    "brand": "吉野杉の樽酒",
     "subname": "",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u9577\u9f8d\u9152\u9020",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "長龍酒造",
     "url": "http://www.choryo.jp/product/taruzake.html",
-    "description": "\u9152\u6a3d\u6750\u3068\u3057\u3066\u6700\u9ad8\u3068\u8a00\u308f\u308c\u308b\u3001\u6a39\u9f62\u7d0480\u5e74\u306e\u300c\u5409\u91ce\u6749\u300d\u306e\u7532\u4ed8\u6750\u306e\u307f\u3092 \u4f7f\u7528\u3057\u305f\u6a3d\u306b\u6a3d\u6dfb\u3048\u3092\u3057\u3066\u3044\u307e\u3059\u3002\u6a3d\u9152\u306e\u5148\u99c6\u8005\u3068\u3057\u3066\u3001\u9577\u5e74\u57f9\u3063\u305f\u6a3d\u6dfb \u3048\u6280\u8853\u3068\u3001\u6a3d\u6750\u3078\u306e\u201c\u3053\u3060\u308f\u308a\u201d\u304c\u751f\u307f\u51fa\u3059\u300c\u6a3d\u9152\u306e\u6975\u307f\u300d\u3092\u304a\u697d\u3057\u307f\u304f \u3060\u3055\u3044\u3002\uff08URL\u304b\u3089\u5f15\u7528\uff09",
+    "description": "酒樽材として最高と言われる、樹齢約80年の「吉野杉」の甲付材のみを 使用した樽に樽添えをしています。樽酒の先駆者として、長年培った樽添 え技術と、樽材への“こだわり”が生み出す「樽酒の極み」をお楽しみく ださい。（URLから引用）",
     "sakeYeast": "",
     "sakeRiceExceptForKojiMaking": "",
     "riceForMakingKoji": "",
@@ -218,13 +218,13 @@
   },
   {
     "_id": "57fe4a2b68595fc7ba677c21",
-    "brand": "\u5409\u91ce\u6749\u306e\u6a3d\u9152\u3000\u96c4\u753a\u3000\u5c71\u5ec3\u7d14\u7c73\u9152",
-    "subname": "\u5c71\u5ec3\u4ed5\u8fbc\u307f",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u9577\u9f8d\u9152\u9020",
+    "brand": "吉野杉の樽酒　雄町　山廃純米酒",
+    "subname": "山廃仕込み",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "長龍酒造",
     "url": "http://www.choryo.jp/product/taruzake.html",
-    "description": "\u4e0a\u54c1\u306a\u6749\u6a3d\u306e\u9999\u308a\u3068\u8efd\u3084\u304b\u306a\u5473\u308f\u3044\u306e\u4e2d\u306b\u3082\u96c4\u753a\u306e\u3075\u304f\u3089\u307f\u3068\u5c71\u5ec3\u72ec\u7279\u306e\u9178\u5473\u3001\u65e8\u307f\u3001\u82e6\u5473\u304c\u3042\u308b\u3002\uff08URL\u304b\u3089\u5f15\u7528\uff09 ",
+    "description": "上品な杉樽の香りと軽やかな味わいの中にも雄町のふくらみと山廃独特の酸味、旨み、苦味がある。（URLから引用） ",
     "starterCulture": "",
     "sakeYeast": "",
     "sakeRiceExceptForKojiMaking": "",
@@ -238,16 +238,19 @@
   },
   {
     "_id": "58170b1e6551430011e23700",
-    "brand": "\u4e09\u65e5\u8e0a",
-    "subname": "\u5c71\u4e43\u304b\u307f",
-    "type": "\u7d14\u7c73\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u4e2d\u8c37\u9152\u9020",
+    "brand": "三日踊",
+    "subname": "山乃かみ",
+    "type": "純米吟醸",
+    "prefecture": "奈良県",
+    "brewery": "中谷酒造",
     "url": "",
-    "description": "\u4e16\u754c\u306b\u985e\u3092\u898b\u306a\u3044\u65e5\u672c\u9152\u72ec\u81ea\u306e\u88fd\u9020\u65b9\u6cd5\u306b\u300c\u4e09\u6bb5\u4ed5\u8fbc\u307f\u300d\u3068\u547c\u3070\u308c\u308b\u4ed5\u8fbc\u307f\u65b9\u6cd5\u304c\u3042\u308a\u307e\u3059\u3002\u9152\u6bcd\u3092\u9020\u3063\u305f\u5f8c\u3001\u300c\u6dfb\uff08\u305d\u3048\uff09\u300d\u300c\u4ef2\uff08\u306a\u304b\uff09\u300d\u300c\u7559\uff08\u3068\u3081\uff09\u300d\u3068\u4e09\u56de\u306b\u4ed5\u8fbc\u307f\u3092\u5206\u3051\u3066\u9806\u6b21\u4ed5\u8fbc\u307f\u91cf\u3092\u5897\u91cf\u3057\u3066\u3044\u304f\u3084\u308a\u65b9\u3092\u3044\u3044\u307e\u3059\u3002\u305d\u306e\u4e2d\u3067\u300c\u6dfb\u300d\u3068\u300c\u4ef2\u300d\u306e\u9593\u306b\u4f11\u307f\u3092\u8a2d\u3051\u3001\u9175\u6bcd\u83cc\u306e\u5897\u6b96\u3092\u4fc3\u3057\u307e\u3059\u3002\u3053\u308c\u3092\u300c\u8e0a\uff08\u304a\u3069\u308a\uff09\u300d\u3068\u547c\u3073\u3001\u901a\u5e38\u306f\u4e00\u65e5\u9593\u3067\u3059\u3002\u672c\u54c1\u306f\u305d\u306e\u8e0a\u671f\u9593\u30922\u65e5\u3082\u3057\u304f\u306f3\u65e5\u9593\u306b\u3057\u3001\u9175\u6bcd\u83cc\u3092\u5341\u5206\u306b\u5897\u3084\u3057\u529b\u5f37\u3044\u767a\u9175\u3092\u76ee\u6307\u3057\u307e\u3057\u305f\u3002\u51fa\u6765\u4e0a\u304c\u308a\u306f\u5473\u3068\u9999\u308a\u306b\u5e45\u304c\u5e83\u304c\u308a\u3001\u72ec\u81ea\u306e\u98a8\u5473\u3092\u5f15\u304d\u51fa\u305b\u307e\u3057\u305f\u3002\u662f\u975e\u304a\u8a66\u3057\u4e0b\u3055\u3044\u3002\n\n\u7b39\u767e\u5408\u304b\u3089\u5206\u96e2\u3057\u305f\u5948\u826f\u770c\u72ec\u81ea\u306e\u9175\u6bcd\u3092\u4f7f\u3044\u3001\u7518\u9178\u3063\u3071\u3044\u679c\u5b9f\u306e\u3088\u3046\u306a\u65e8\u307f\u3092\u5b9f\u73fe\u3057\u307e\u3057\u305f\u3002\u723d\u3084\u304b\u306a\u53e3\u5f53\u305f\u308a\u306e\u5f8c\u3001\u8c4a\u304b\u306a\u5473\u304c\u5e83\u304c\u308a\u307e\u3059\u3002\n\uff08\u30e9\u30d9\u30eb\u3088\u308a\uff09",
+    "description": "世界に類を見ない日本酒独自の製造方法に「三段仕込み」と呼ばれる仕込み方法があります。酒母を造った後、「添（そえ）」「仲（なか）」「留（とめ）」と三回に仕込みを分けて順次仕込み量を増量していくやり方をいいます。その中で「添」と「仲」の間に休みを設け、酵母菌の増殖を促します。これを「踊（おどり）」と呼び、通常は一日間です。本品はその踊期間を2日もしくは3日間にし、酵母菌を十分に増やし力強い発酵を目指しました。出来上がりは味と香りに幅が広がり、独自の風味を引き出せました。是非お試し下さい。
+
+笹百合から分離した奈良県独自の酵母を使い、甘酸っぱい果実のような旨みを実現しました。爽やかな口当たりの後、豊かな味が広がります。
+（ラベルより）",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u5c71\u7530\u9326",
-    "riceForMakingKoji": "\u5c71\u7530\u9326",
+    "sakeRiceExceptForKojiMaking": "山田錦",
+    "riceForMakingKoji": "山田錦",
     "ricePolishingRate": "60",
     "alcoholContent": "16.5",
     "sakeMeterValue": "1",
@@ -257,17 +260,17 @@
   },
   {
     "_id": "57fe4a2b68595fc7ba677cf5",
-    "brand": "\u5c71\u9999",
-    "subname": "\u751f\u915b\u7d14\u7c73\u541f\u91b8",
-    "type": "\u7d14\u7c73\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u4e43\u5bbf\u9152\u9020",
+    "brand": "山香",
+    "subname": "生酛純米吟醸",
+    "type": "純米吟醸",
+    "prefecture": "奈良県",
+    "brewery": "梅乃宿酒造",
     "url": "http://umenoyado.com/cat-sake/sanpuka",
-    "description": "\u5099\u524d\u96c4\u753a\u767a\u7965\u306e\u5730\u3001\u9ad8\u5cf6\u5730\u533a\u306e\u96c4\u753a\u7c73\u4f7f\u7528\u3002\u6614\u306a\u304c\u3089\u306e\u751f\u915b\u9020\u308a\u3067\u91b8\u3057\u305f\u304a\u9152\u30921\u5e74\u9593\u719f\u6210\u3055\u305b\u3001\u539f\u9152\u306e\u307e\u307e\u304a\u5c4a\u3051\u3044\u305f\u3057\u307e\u3059\u3002\u96c4\u753a\u3089\u3057\u3044\u67d4\u3089\u304b\u306a\u7518\u307f\u306e\u3042\u308b\u5473\u308f\u3044\u3068\u751f\u915b\u9020\u308a\u306a\u3089\u3067\u306f\u306e\u307b\u3069\u3088\u3044\u9178\u3068\u6df1\u3044\u65e8\u307f\u306e\u8abf\u548c\u3092\u3054\u582a\u80fd\u304f\u3060\u3055\u3044\u3002\uff08URL\u304b\u3089\u5f15\u7528\uff09",
+    "description": "備前雄町発祥の地、高島地区の雄町米使用。昔ながらの生酛造りで醸したお酒を1年間熟成させ、原酒のままお届けいたします。雄町らしい柔らかな甘みのある味わいと生酛造りならではのほどよい酸と深い旨みの調和をご堪能ください。（URLから引用）",
     "starterCulture": "",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u5099\u524d\u96c4\u753a",
-    "riceForMakingKoji": "\u5099\u524d\u96c4\u753a",
+    "sakeRiceExceptForKojiMaking": "備前雄町",
+    "riceForMakingKoji": "備前雄町",
     "ricePolishingRate": "60",
     "alcoholContent": "17",
     "sakeMeterValue": "1.5",
@@ -277,16 +280,17 @@
   },
   {
     "_id": "581d480eb2aef40011697488",
-    "brand": "\u82b1\u5df4",
-    "subname": "\u6c34\u3082\u3068\u7d14\u7c73\u9152",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u7f8e\u5409\u91ce\u91b8\u9020",
+    "brand": "花巴",
+    "subname": "水もと純米酒",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "美吉野醸造",
     "url": "http://www.hanatomoe.com/product/hanatomoe/hanatomoe_top.html",
-    "description": "\u5ba4\u753a\u6642\u4ee3\u306b\u5948\u826f\u306e\u5bfa\u9662\u3067\u5275\u91b8\u3057\u305f\u3001\u300c\u305d\u3084\u3057\u6c34\uff08\u751f\u7c73\u3092\u7528\u3044\u3066\u9178\u3092\u5f15\u304d\u51fa\u3059\uff09\u300d\u3092\u7528\u3044\u305f\u73cd\u3057\u3044\u88fd\u6cd5\u3002\u6696\u304b\u3044\u6642\u671f\u3067\u3082\u91b8\u9020\u304c\u53ef\u80fd\u3067\u3001\u30af\u30e9\u30b7\u30c3\u30af\u306a\u88fd\u6cd5\u306a\u304c\u3089\u3001\u4e73\u9178\u98f2\u6599\u7684\u306a\u7518\u9178\u3063\u3071\u3044\u65e5\u672c\u9152\u96e2\u308c\u3057\u305f\u65b0\u3057\u3044\u5473\u308f\u3044\u306e\u304a\u9152\u306b\u4ed5\u4e0a\u304c\u308a\u307e\u3059\u3002\n\uff08URL\u304b\u3089\u5f15\u7528\uff09",
+    "description": "室町時代に奈良の寺院で創醸した、「そやし水（生米を用いて酸を引き出す）」を用いた珍しい製法。暖かい時期でも醸造が可能で、クラシックな製法ながら、乳酸飲料的な甘酸っぱい日本酒離れした新しい味わいのお酒に仕上がります。
+（URLから引用）",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u541f\u306e\u3055\u3068",
-    "riceForMakingKoji": "\u541f\u306e\u3055\u3068",
+    "sakeRiceExceptForKojiMaking": "吟のさと",
+    "riceForMakingKoji": "吟のさと",
     "ricePolishingRate": "70",
     "alcoholContent": "16",
     "sakeMeterValue": "",
@@ -296,16 +300,17 @@
   },
   {
     "_id": "58119ba61e09280011814c86",
-    "brand": "\u98a8\u9999",
-    "subname": "\u7d14\u7c73\u7121\u5727\u63a1\u308a \u751f\u539f\u9152",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u306e\u5bbf",
+    "brand": "風香",
+    "subname": "純米無圧採り 生原酒",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "梅の宿",
     "url": "http://umenoyado.com/cat-sake/sanpuka",
-    "description": "\u643e\u308a\u6a5f\u306b\u4e00\u5207\u306e\u529b\u3092\u52a0\u3048\u305a\u3001\u6ef4\u308a\u843d\u3061\u305f\u304a\u9152\u3060\u3051\u3092\u74f6\u8a70\u3081\u3057\u307e\u3057\u305f\u3002\u67d4\u3089\u304b\u306a\u7518\u307f\u3068\u3001\u7121\u5727\u63a1\u308a\u306a\u3089\u3067\u306f\u306e\u8c4a\u304b\u3067\u4e0a\u54c1\u306a\u5473\u308f\u3044\u3068\u9999\u308a\u3092\u582a\u80fd\u3067\u304d\u308b\u9650\u5b9a\u751f\u539f\u9152\u3067\u3059\u3002\n\u30ad\u30ea\u30c3\u3068\u3088\u304f\u51b7\u3084\u3057\u3066\u3001\u307e\u305f\u306f\u30ed\u30c3\u30af\u3067\u3082\u7f8e\u5473\u3057\u304f\u304a\u53ec\u3057\u4e0a\u304c\u308a\u9802\u3051\u307e\u3059\u3002\uff08URL\u304b\u3089\u5f15\u7528\uff09",
+    "description": "搾り機に一切の力を加えず、滴り落ちたお酒だけを瓶詰めしました。柔らかな甘みと、無圧採りならではの豊かで上品な味わいと香りを堪能できる限定生原酒です。
+キリッとよく冷やして、またはロックでも美味しくお召し上がり頂けます。（URLから引用）",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u5c71\u7530\u9326",
-    "riceForMakingKoji": "\u5c71\u7530\u9326",
+    "sakeRiceExceptForKojiMaking": "山田錦",
+    "riceForMakingKoji": "山田錦",
     "ricePolishingRate": "65",
     "alcoholContent": "17",
     "sakeMeterValue": "-1.2",
@@ -315,16 +320,17 @@
   },
   {
     "_id": "58186fb9090cdb001161c67f",
-    "brand": "\u98a8\u306e\u68ee",
-    "subname": "\u96c4\u753a\u3000\u7d14\u7c73\u541f\u91b8\u3057\u307c\u308a\u83ef",
-    "type": "\u7d14\u7c73\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6cb9\u9577\u9152\u9020",
+    "brand": "風の森",
+    "subname": "雄町　純米吟醸しぼり華",
+    "type": "純米吟醸",
+    "prefecture": "奈良県",
+    "brewery": "油長酒造",
     "url": "",
-    "description": "\u98a8\u306e\u68ee\u30b7\u30ea\u30fc\u30ba\u306e\u4e2d\u3067\u6700\u3082\u30b9\u30a6\u30a3\u30fc\u30c8\u306a\u8a2d\u8a08\u3002\n\u30ea\u30c3\u30c1\u306a\u5473\u308f\u3044\u3068\u3001\u9752\u30ea\u30f3\u30b4\u306e\u69d8\u306a\u542b\u307f\u9999\u304c\u305d\u306e\u7279\u5fb4\u3002\u67d4\u3089\u304b\u3044\u53e3\u5f53\u305f\u308a\u3068\u8907\u96d1\u5473\u3042\u308b\u5473\u308f\u3044\u306e\u4f59\u97fb\u3092\u304a\u697d\u3057\u307f\u304f\u3060\u3055\u3044\u3002\uff08\u30e9\u30d9\u30eb\u3088\u308a\uff09",
+    "description": "風の森シリーズの中で最もスウィートな設計。
+リッチな味わいと、青リンゴの様な含み香がその特徴。柔らかい口当たりと複雑味ある味わいの余韻をお楽しみください。（ラベルより）",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u96c4\u753a",
-    "riceForMakingKoji": "\u96c4\u753a",
+    "sakeRiceExceptForKojiMaking": "雄町",
+    "riceForMakingKoji": "雄町",
     "ricePolishingRate": "60",
     "alcoholContent": "",
     "sakeMeterValue": "",
@@ -334,16 +340,16 @@
   },
   {
     "_id": "582fc720fbda03001200b5ae",
-    "brand": "\u82b1\u5df4",
-    "subname": "\u5f13\u5f26\u8449\u3000\u6c37\u6e29\u8caf\u8535",
-    "type": "\u7d14\u7c73\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u7f8e\u5409\u91ce\u91b8\u9020",
+    "brand": "花巴",
+    "subname": "弓弦葉　氷温貯蔵",
+    "type": "純米吟醸",
+    "prefecture": "奈良県",
+    "brewery": "美吉野醸造",
     "url": "",
-    "description": "\u304a\u7c73\u306e\u65e8\u5473\u3068\u7d76\u5999\u306a\u9178\u5473\u306e\u30d0\u30e9\u30f3\u30b9\u304c\u3059\u3070\u3089\u3057\u3044\u3001\u30d0\u30e9\u30f3\u30b9\u306e\u53d6\u308c\u305f\u98df\u4e2d\u9152\u5411\u3051\u306e\u304a\u9152\u3067\u3059\u3002",
+    "description": "お米の旨味と絶妙な酸味のバランスがすばらしい、バランスの取れた食中酒向けのお酒です。",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u541f\u306e\u3055\u3068",
-    "riceForMakingKoji": "\u541f\u306e\u3055\u3068",
+    "sakeRiceExceptForKojiMaking": "吟のさと",
+    "riceForMakingKoji": "吟のさと",
     "ricePolishingRate": "50",
     "alcoholContent": "16.5",
     "sakeMeterValue": "",
@@ -354,12 +360,45 @@
   {
     "_id": "584cd4d2f8f0380011010962",
     "brand": "UMENOYADO LAB",
-    "subname": "\u541f\u30ae\u30f3\u30ac",
-    "type": "\u7d14\u7c73\u5927\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u4e43\u5bbf\u9152\u9020",
+    "subname": "吟ギンガ",
+    "type": "純米大吟醸",
+    "prefecture": "奈良県",
+    "brewery": "梅乃宿酒造",
     "url": "",
-    "description": "UMENOYADO LAB.\nUMENOYADO LAB.\u3068\u306f\u3001\n\u65b0\u3044\u3001\u65e5\u672c\u9152\u306e\u53ef\u80fd\u6027\u3092\u30c7\u30b6\u30a4\u30f3\u3057\u3066\u3044\u304f\n\u8377\u7a76\u6240\u3067\u3059.UMENOYADO LAB.\u3067\u306f\u3001\n\u65b0\u3057\u304f\u958b\u767a\u3057\u305f\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u306e\u65e5\u672c\u9152\u3092\nBY..J\n\u9650\u5b9a\u5546\u54c1\u3068\u3057\u3066\u767a\u4fe1\u3057\u3066\u3044\u304d\u307e\u3059\u3002\n:\u30e4\u30fc\n\u5bb9\u91cf:720mL/\u539f\u6599\u7c73:\u541f\n\u6599\u7c73:\u541f\u304e\u3093\u304c100%\n\u539f\u6750\u6599\u540d:\u7c73(\u56fd) /\u7cbe\n\u79d1\u540d:\n\u30fc\u3046\u3058(\u56fd\u7523\n\u5206:16\u5ea6/\u7cbe\u7c73\u6b69\n\u5408:50%\n\u3001\u30eb\n\u672a\u6210\u5e74\u306e\u98f2\u9152\u306f\u6cd5\u5f8b\u3067\u7981\u3058\n\u51ef\u671f\u306e\u6cd5\u5f8b\u3067\u7981\u3058\u3089\u308c\u3066\u3044\u307e\u3059\n\u5150\u306e\u767a\u80b2\u306b\u90fe\u30ec\u3067\n\u4f1a\u793e\u5438\u306b\u306f\u5341\u5206\u6ce8\u610f\u3057\u3066\u4e0b\n:\u6388\u4e73\n\u671f\u306e\u98f2\u9152\u306f\u3001\u80ce\u5150 \u4e73\u5150\u306e\u767a\u5206\u6ce8\u610f\n\u3054\u6ce8\u610f\u304f\u3060\u3055\u3044\u3002\u958b\u6813\u306b\u306f-\u845b\n\u4e43\u5bbf\u9152\u9020\u682a\u5f0f\u4f1a\n\u9020\u682a\u5f0f\u4f1a\u793e/\u5948\u826f\u770c\n\u9020\u5e74\u6708\n18.11E\n4 ll,\"sies\n4 ''534847\n\u6e05-\n\u8981\u4e00 7ne\nNO\u7c73\n\u5185\u539fA\n",
+    "description": "UMENOYADO LAB.
+UMENOYADO LAB.とは、
+新い、日本酒の可能性をデザインしていく
+荷究所です.UMENOYADO LAB.では、
+新しく開発したプロトタイプの日本酒を
+BY..J
+限定商品として発信していきます。
+:ヤー
+容量:720mL/原料米:吟
+料米:吟ぎんが100%
+原材料名:米(国) /精
+科名:
+ーうじ(国産
+分:16度/精米歩
+合:50%
+、ル
+未成年の飲酒は法律で禁じ
+凯期の法律で禁じられています
+児の発育に郾レで
+会社吸には十分注意して下
+:授乳
+期の飲酒は、胎児 乳児の発分注意
+ご注意ください。開栓には-葛
+乃宿酒造株式会
+造株式会社/奈良県
+造年月
+18.11E
+4 ll,"sies
+4 ''534847
+清-
+要一 7ne
+NO米
+内原A
+",
     "sakeYeast": "",
     "sakeRiceExceptForKojiMaking": "",
     "riceForMakingKoji": "",
@@ -373,12 +412,40 @@
   {
     "_id": "584cd583f8f0380011010963",
     "brand": "UMENOYADO LAB",
-    "subname": "\u5c71\u4e43\u30ab\u30df",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u4e43\u5bbf\u9152\u9020",
+    "subname": "山乃カミ",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "梅乃宿酒造",
     "url": "",
-    "description": "MENOYADO LAB\nOWENOYADO LAB.\u3068\u306f\u3002\n\u306e\u53ef\u80fd\u6027\u3092\u30c7\u30b6\u30a4\u30f3\u3057\u3066\u3044\u304f\n\u3067\u3059\nafsUMENOYADO LAB.\u3067\u306f\u3002\nwaNA\u3068\u3057\u3066\n\u305f\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u306e\u65e5\u672c\u9152\u3092\nBY...\n\u3068\u3057\u3066\u767a\u4fe1\u3057\u3066\u3044\u304d\u307e\u3059.\n12\u5ea6 *\u3053\u3046\u3058(\u56fd\u7523\u7c73)\n20ml /\u539f\u6599\u7c73:\u30d2\u30ce\n\u30d2\u30fc\n6:\u7c73(\u56fd\u7523)-\u7c73\u3053\u3046\u3058 ( :6590\n\u30eb\u5206\n\u6210\u5e74\u306e\u6b35\u9152\u306f2\n:12\u5ea6//\u7cbe\u7c73\u6b69\n\u306f\u6cd5\u5f8b\u3067\u7981\u3058\u3089\u308c\u3066\n\u5150\u306e\u767a\u80b2\u306b\u5f71\u97ff\u3059\u308b\n\u3058\u3089\u308c\u3066\u3044\u307e\u3059\u3002\n%;Psea'Ai. :\u682a\u5f0f\nEee\u306f\u3001\u80ce\u5150\u00b7\u4e73\u5150\u306e\u767a\u80b2\u306b\n\u306b\u306f\u5341\u5206\u6ce8\u610f\u3057\u3066\n\u3067\u3053\u306e\u5439\u9152\u306f\n////\u5948\u826f\u770c\u845b\u57ce\u5e02\n\u305f\u3055\u3044 \u958b\u6813\u306b\u306f\u5341\n:\u682a\u5f0f\u4f1a\u793e/\u5948\u826f\n11F\n\u4e3b\u6708\n",
+    "description": "MENOYADO LAB
+OWENOYADO LAB.とは。
+の可能性をデザインしていく
+です
+afsUMENOYADO LAB.では。
+waNAとして
+たプロトタイプの日本酒を
+BY...
+として発信していきます.
+12度 *こうじ(国産米)
+20ml /原料米:ヒノ
+ヒー
+6:米(国産)-米こうじ ( :6590
+ル分
+成年の欵酒は2
+:12度//精米歩
+は法律で禁じられて
+児の発育に影響する
+じられています。
+%;Psea'Ai. :株式
+Eeeは、胎児·乳児の発育に
+には十分注意して
+でこの吹酒は
+////奈良県葛城市
+たさい 開栓には十
+:株式会社/奈良
+11F
+主月
+",
     "sakeYeast": "",
     "sakeRiceExceptForKojiMaking": "",
     "riceForMakingKoji": "",
@@ -392,12 +459,42 @@
   {
     "_id": "584cd654f8f0380011010964",
     "brand": "UMENOYADO LAB",
-    "subname": "\u30ad\u30bf\u30b7\u30ba\u30af",
-    "type": "\u7d14\u7c73\u5927\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u4e43\u5bbf\u9152\u9020",
+    "subname": "キタシズク",
+    "type": "純米大吟醸",
+    "prefecture": "奈良県",
+    "brewery": "梅乃宿酒造",
     "url": "",
-    "description": "\u51c4\nUMENOYA DO LAB.\nUMENOYADO LAB.\u3068\u306f\u3001\n\u65b0\u3057\u3044\u65e5\u672c\u9152\u306e\u53ef\n1\u65e5\u672c\u9152\n(R, UMENOYADO LAB.\u3067\u306f\u3001\n\u3067\u3059.UMA\n\u98de\u5546\u54c1\u3068\u3057\u305f\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u306e\u65e5\u672c\u9152\u3092\n(\u958b\u767a\u3057\u305f\u30d7\nBY...\n\u54c1\u3068\u3057\u3066\u767a\u4fe1\u3057\u3066\u3044\u304d\u307e\u3059\u3002\nNO...\n\u304f1\n\u30fc\u30bf4:720ml/\u539f\u6599\u7c73\n\u7c73:\u304d\u305f\u30ec\u7523\u7c73)\n\u7c73(\u56fd\u7523)-\u7c73\u3053\u3046\u3058('-5090\n:16\u5ea6/\u7cbe\u7c73\u6b69\u5408\n\u98f2\u9152\u306f\u6cd5\u5f8b\u3067\u7981\n\u6388\u4e73\u671f\u306e\u98f2\u9152\u306f\u3001\n:\u6cd5\u5f8b\n\u3067\u7981\u3058\u3089\u308c\u3066\u3044\u307e\u3059\u3002\n\u5150+\u4e73\u5150\u306e\u767a\u80b2\u306b \u30ec\u3067\n,\u3055\u3044 \u958b\u6813\u306b\u306f\u5341\u5206\u6ce8\u610f\n\u306f\u3001\u80ce!\n\u3060\u3055\u3044\n\u5f0f\u4f1a\u793e/\u5948\u826f\u770c)\n4 ll53irs\nWAL/\n\u6e05\ny\u6599/7\n",
+    "description": "凄
+UMENOYA DO LAB.
+UMENOYADO LAB.とは、
+新しい日本酒の可
+1日本酒
+(R, UMENOYADO LAB.では、
+です.UMA
+飞商品としたプロトタイプの日本酒を
+(開発したプ
+BY...
+品として発信していきます。
+NO...
+く1
+ータ4:720ml/原料米
+米:きたレ産米)
+米(国産)-米こうじ('-5090
+:16度/精米歩合
+飲酒は法律で禁
+授乳期の飲酒は、
+:法律
+で禁じられています。
+児+乳児の発育に レで
+,さい 開栓には十分注意
+は、胎!
+ださい
+式会社/奈良県)
+4 ll53irs
+WAL/
+清
+y料/7
+",
     "sakeYeast": "",
     "sakeRiceExceptForKojiMaking": "",
     "riceForMakingKoji": "",
@@ -410,11 +507,11 @@
   },
   {
     "_id": "584cd6b9f8f0380011010965",
-    "brand": "\u98a8\u9999",
-    "subname": "\u3057\u307c\u308a\u305f\u3066",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u306e\u5bbf",
+    "brand": "風香",
+    "subname": "しぼりたて",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "梅の宿",
     "url": "",
     "description": "",
     "sakeYeast": "",
@@ -429,11 +526,11 @@
   },
   {
     "_id": "584cd78df8f0380011010966",
-    "brand": "\u98a8\u9999",
+    "brand": "風香",
     "subname": "",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u306e\u5bbf",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "梅の宿",
     "url": "",
     "description": "",
     "sakeYeast": "",
@@ -448,11 +545,11 @@
   },
   {
     "_id": "584cd800f8f0380011010967",
-    "brand": "\u98a8\u9999",
-    "subname": "\u888b\u3057\u307c\u308a\u751f\u539f\u9152",
-    "type": "\u7d14\u7c73\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u306e\u5bbf",
+    "brand": "風香",
+    "subname": "袋しぼり生原酒",
+    "type": "純米吟醸",
+    "prefecture": "奈良県",
+    "brewery": "梅の宿",
     "url": "",
     "description": "",
     "sakeYeast": "",
@@ -467,11 +564,11 @@
   },
   {
     "_id": "5868e70e394da300117ed171",
-    "brand": "\u6885\u4e43\u5bbf",
-    "subname": "\u3042\u3089\u3054\u3057\u6885\u9152",
-    "type": "\u672c\u91b8\u9020",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6885\u4e43\u5bbf\u9152\u9020",
+    "brand": "梅乃宿",
+    "subname": "あらごし梅酒",
+    "type": "本醸造",
+    "prefecture": "奈良県",
+    "brewery": "梅乃宿酒造",
     "url": "",
     "description": "",
     "sakeYeast": "",
@@ -486,16 +583,21 @@
   },
   {
     "_id": "58e7611aeee32100113b0700",
-    "brand": "\u98a8\u306e\u68ee",
+    "brand": "風の森",
     "subname": "ALPHA TYPE1",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6cb9\u9577\u9152\u9020",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "油長酒造",
     "url": "http://www.abetaya.com/hp/yutyou/kazenomori.html",
-    "description": "\u7121\u6ffe\u904e\u7121\u52a0\u6c34\u751f\n\u30a2\u30eb\u30d5\u30a1\u30fc\u98a8\u306e\u68ee\u3068\u8a00\u3044\u307e\u3059\u3002\u4f7f\u7528\u7c73\u306f\u300c\u79cb\u6d25\u7a42\u300d\u3001\u98a8\u306e\u68ee\u304c\uff12\uff10\u5e74\u4ee5\u4e0a\u306e\u6c38\u304d\u306b\u6e21\u3063\u3066\u4f7f\u7528\u3057\u3066\u304d\u305f\u539f\u6599\u7c73\u3067\u3001\u98a8\u306e\u68ee\u597d\u9069\u7c73\u3068\u8a00\u3063\u3066\u3082\u826f\u3044\u3050\u3089\u3044\u76f8\u6027\u306e\u3088\u3044\u304a\u7c73\u3092\u4f7f\u3063\u3066\u3044\u307e\u3059\u3002\u7cbe\u7c73\u6b69\u5408\u306f65\uff05\u3067\u3059\u3002\n\n\u6700\u5927\u306e\u7279\u5fb4\u306f\u30a2\u30eb\u30b3\u30fc\u30eb\u5ea6\u304c14\u5ea6\uff08\u3061\u3087\u3063\u3068\u4f4e\u3081\uff09\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u3002\u793e\u9577\u66f0\u304f\u300c\u50d5\u306f\u3042\u307e\u308a\u5f37\u304f\u306a\u3044\u306e\u3067\u3001\u305d\u3093\u306a\u50d5\u3067\u3082\u98f2\u3081\u3088\u3046\u306a\u305d\u3057\u3066\u98f2\u307f\u75b2\u308c\u306a\u3044\u3088\u3046\u306a\u304a\u9152\u3092\u9020\u308a\u305f\u304b\u3063\u305f\u3093\u3067\u3059\u3002\u50d5\u304c\u4e00\u756a\u98f2\u307f\u305f\u3044\u304a\u9152\u306a\u3093\u3067\u3059\uff08\u7b11\uff09\u300d\u3068\u3044\u3046\u3053\u3068\u304b\u3089\u4f01\u753b\u3055\u308c\u307e\u3057\u305f\u3002\n\n\u5b9f\u969b\u306b\u98f2\u3093\u3067\u307f\u308b\u3068\u3001\u60f3\u50cf\u3057\u3066\u3044\u305f\u3088\u308a\u3082\u305a\u3063\u3068\u65e8\u5473\u304c\u3057\u3063\u304b\u308a\u3042\u3063\u3066\u30ad\u30ec\u3082\u3068\u3066\u3082\u826f\u3044\u3002\u98a8\u306e\u68ee\u3089\u3057\u3044\u30b7\u30e5\u30ef\u30b7\u30e5\u30ef\u611f\u3068\u305d\u308c\u306f\u723d\u3084\u304b\u306a\u65e8\u5473\u304c\u53e3\u4e2d\u3067\u62e1\u6563\u3059\u308b\u3088\u3046\u306b\u5e83\u304c\u308a\u307e\u3059\u3002",
+    "description": "無濾過無加水生
+アルファー風の森と言います。使用米は「秋津穂」、風の森が２０年以上の永きに渡って使用してきた原料米で、風の森好適米と言っても良いぐらい相性のよいお米を使っています。精米歩合は65％です。
+
+最大の特徴はアルコール度が14度（ちょっと低め）ということです。社長曰く「僕はあまり強くないので、そんな僕でも飲めようなそして飲み疲れないようなお酒を造りたかったんです。僕が一番飲みたいお酒なんです（笑）」ということから企画されました。
+
+実際に飲んでみると、想像していたよりもずっと旨味がしっかりあってキレもとても良い。風の森らしいシュワシュワ感とそれは爽やかな旨味が口中で拡散するように広がります。",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u79cb\u6d25\u7a42",
-    "riceForMakingKoji": "\u79cb\u6d25\u7a42",
+    "sakeRiceExceptForKojiMaking": "秋津穂",
+    "riceForMakingKoji": "秋津穂",
     "ricePolishingRate": "65",
     "alcoholContent": "14",
     "sakeMeterValue": "",
@@ -505,16 +607,16 @@
   },
   {
     "_id": "58f1ba648a8e3500110f8c5e",
-    "brand": "\u82b1\u5df4",
-    "subname": "\u3057\u307c\u308a\u305f\u3066\u7121\u6ffe\u904e\u751f\u539f\u9152",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u7f8e\u5409\u91ce\u91b8\u9020",
+    "brand": "花巴",
+    "subname": "しぼりたて無濾過生原酒",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "美吉野醸造",
     "url": "",
     "description": "",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u541f\u306e\u3055\u3068",
-    "riceForMakingKoji": "\u541f\u306e\u3055\u3068",
+    "sakeRiceExceptForKojiMaking": "吟のさと",
+    "riceForMakingKoji": "吟のさと",
     "ricePolishingRate": "70",
     "alcoholContent": "20",
     "sakeMeterValue": "9",
@@ -524,16 +626,20 @@
   },
   {
     "_id": "59084e5a9bbaca00116dbce2",
-    "brand": "\u98a8\u306e\u68ee",
-    "subname": "\u5c71\u7530\u9326\u3000\u7d14\u7c73\u3057\u307c\u308a\u83ef",
-    "type": "\u7d14\u7c73",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6cb9\u9577\u9152\u9020",
+    "brand": "風の森",
+    "subname": "山田錦　純米しぼり華",
+    "type": "純米",
+    "prefecture": "奈良県",
+    "brewery": "油長酒造",
     "url": "",
-    "description": "\u4f4e\u7cbe\u767d\u3067\u3042\u308a\u306a\u304c\u3089\u3001\u8d85\u4f4e\u6e29\u9577\u671f\u767a\u9175\u306b\u3088\u3063\u3066\n\u5c71\u7530\u9326\u306e\u500b\u6027\u3092\u5b58\u5206\u306b\u5f15\u304d\u51fa\u3057\u307e\u3057\u305f\u3002\n80%\u7cbe\u7c73\u306a\u3089\u3067\u306f\u306e\u30d5\u30eb\u30dc\u30ea\u30e5\u30fc\u30e0\u306e\u5473\u308f\u3044\u3068\n\u72ec\u7279\u306e\u9178\u5473\u304c\u30d0\u30e9\u30f3\u30b9\u3088\u304f\u8abf\u548c\u3057\u3066\u3044\u307e\u3059\u3002\n\u7121\u6ffe\u904e\u7121\u52a0\u6c34\u751f\u9152",
+    "description": "低精白でありながら、超低温長期発酵によって
+山田錦の個性を存分に引き出しました。
+80%精米ならではのフルボリュームの味わいと
+独特の酸味がバランスよく調和しています。
+無濾過無加水生酒",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u5c71\u7530\u9326",
-    "riceForMakingKoji": "\u5c71\u7530\u9326",
+    "sakeRiceExceptForKojiMaking": "山田錦",
+    "riceForMakingKoji": "山田錦",
     "ricePolishingRate": "80",
     "alcoholContent": "17",
     "sakeMeterValue": "",
@@ -543,16 +649,18 @@
   },
   {
     "_id": "592aa9f1718052001129e0fb",
-    "brand": "\u98a8\u306e\u68ee",
-    "subname": "\u5c71\u7530\u9326\u7d14\u7c73\u541f\u91b8\u3057\u307c\u308a\u83ef",
-    "type": "\u7d14\u7c73\u541f\u91b8",
-    "prefecture": "\u5948\u826f\u770c",
-    "brewery": "\u6cb9\u9577\u9152\u9020",
+    "brand": "風の森",
+    "subname": "山田錦純米吟醸しぼり華",
+    "type": "純米吟醸",
+    "prefecture": "奈良県",
+    "brewery": "油長酒造",
     "url": "",
-    "description": "\u7121\u6ffe\u904e\u7121\u52a0\u6c34\u751f\u9152\n\u98a8\u306e\u68ee\u30b7\u30ea\u30fc\u30ba\u306e\u4e2d\u3067\u6700\u3082\u30c9\u30e9\u30a4\u306a\u8a2d\u8a08\u3002\n\u900f\u660e\u611f\u306e\u3042\u308b\u5473\u308f\u3044\u3068\u3001\u745e\u3005\u3057\u3044\u767d\u3044\u8461\u8404\u3092\u601d\u308f\u305b\u308b\u9999\u308a\u304c\u305d\u306e\u7279\u5fb4\u3002\u6ed1\u3089\u304b\u3067\u67d4\u3089\u304b\u3044\u53e3\u3042\u305f\u308a\u3068\u304d\u3081\u7d30\u304b\u306a\u5473\u308f\u3044\u306e\u51dd\u7e2e\u611f\u3092\u304a\u697d\u3057\u307f\u304f\u3060\u3055\u3044",
+    "description": "無濾過無加水生酒
+風の森シリーズの中で最もドライな設計。
+透明感のある味わいと、瑞々しい白い葡萄を思わせる香りがその特徴。滑らかで柔らかい口あたりときめ細かな味わいの凝縮感をお楽しみください",
     "sakeYeast": "",
-    "sakeRiceExceptForKojiMaking": "\u5c71\u7530\u9326",
-    "riceForMakingKoji": "\u5c71\u7530\u9326",
+    "sakeRiceExceptForKojiMaking": "山田錦",
+    "riceForMakingKoji": "山田錦",
     "ricePolishingRate": "60",
     "alcoholContent": "17",
     "sakeMeterValue": "",
